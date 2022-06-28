@@ -9,7 +9,7 @@ To develop a code to solve a sudoku puzzle using contraint propagation
 Sudoku consists of a 9x9 grid, and the objective is to fill the grid with digits in such a way that each row, each column, and each of the 9 principal 3x3 subsquares contains all of the digits from 1 to 9.
 
 ## Sudoku puzzle:
-![Q](https://user-images.githubusercontent.com/75234807/172747215-f5437423-d101-49dd-aa4e-955518e37af5.png)
+<img src="https://user-images.githubusercontent.com/75234807/172747215-f5437423-d101-49dd-aa4e-955518e37af5.png" height="300" width="600" >
 
 ## Design Steps:
 ### Step 1:
@@ -136,7 +136,7 @@ print("\n\n{0} seconds".format(time_taken))
 ```
 
 ## Output:
-![Screenshot (225)](https://user-images.githubusercontent.com/75234807/172747065-dece9048-fa71-4db0-b571-bd72e6683de5.png)
+<img src="https://user-images.githubusercontent.com/75234807/172747065-dece9048-fa71-4db0-b571-bd72e6683de5.png" height="400" width="400" >
 
 ## Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
